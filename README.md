@@ -1,1 +1,1 @@
-- 👋 Hi, I’m @dclstn. I enjoy optimzing the reverse-engineering the web :)
+- 👋 Hi, I’m @dclstn. I enjoy optimzing and reverse-engineering the web :)
